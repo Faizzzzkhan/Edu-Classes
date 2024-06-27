@@ -1,1 +1,2 @@
 # Edu-Classes
+An online platform to teach computer science courses. Structured courses with interactive content. Support students with instructors and assessments. Foster collaboration and update content regularly. Offer certificates and promote courses effectively.
